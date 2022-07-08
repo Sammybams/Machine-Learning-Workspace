@@ -1,4 +1,8 @@
-Pa􏰃􏰂 1 - 􏰏􏰄􏰂􏰐 C􏰇􏰀􏰀ab􏰇􏰃a􏰂􏰄􏰊􏰁 F􏰄􏰀􏰂􏰁􏰃􏰄􏰅􏰉
-- This is an Item-to-Item collaborati􏰊e 􏰑ltering model as mo􏰊ies rated similarl􏰋 to ho􏰏 􏰋ou rated certain mo􏰊ies are recommended in other of preference (i.e. best rated to least).
-Pa􏰃􏰂 2 - C􏰇􏰅􏰂􏰁􏰅􏰂 Ba􏰈􏰁􏰆 (􏰢􏰄c􏰍􏰄􏰅􏰉 􏰂􏰇􏰢 􏰃a􏰂􏰁􏰆)
-- I used a relati􏰊e correlation bet􏰏een genres of mo􏰊ies using cosine similarit􏰋 and T􏰑dfVectori􏰒er. Therefore, the mo􏰊ies that 􏰏ere more similar in terms of genre had a high positi􏰊e correlation 􏰊alue.
+# Movie-Recommendation-System
+
+### Pa􏰃􏰂rt 1 - with Collaborative Filtering
+- This is an Item-to-Item collaborative filtering model as movies rated similarly to how you rated certain movies are recommended in order of preference (i.e best rated to least).
+
+
+### Part 2 - Content Based (picking top rated)
+- I used a relative correlation between genres of movies using cosine similarity and TfidfVectorizer. Therefore, the movies that were more similar in terms of genre had a high positive correlation value.
